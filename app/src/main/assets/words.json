@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "english_term": "Gravity",
+    "kannada_meaning": "ಗುರುತ್ವಾಕರ್ಷಣೆ",
+    "kannada_explanation": "ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ತನ್ನ ಕಡೆಗೆ ಎಳೆಯುವ ಭೂಮಿಯ ನೈಸರ್ಗಿಕ ಬಲ.",
+    "example_sentence": "Gravity pulls objects towards the Earth.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 2,
+    "english_term": "Photosynthesis",
+    "kannada_meaning": "ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ",
+    "kannada_explanation": "ಸಸ್ಯಗಳು ಸೂರ್ಯನ ಬೆಳಕಿನಿಂದ ಆಹಾರ ತಯಾರಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+    "example_sentence": "Plants make food through photosynthesis.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 3,
+    "english_term": "Atom",
+    "kannada_meaning": "ಪರಮಾಣು",
+    "kannada_explanation": "ವಸ್ತುವಿನ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸಾಂದ್ರ ಕಣ.",
+    "example_sentence": "An atom is the smallest unit of matter.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 4,
+    "english_term": "Velocity",
+    "kannada_meaning": "ವೇಗ",
+    "kannada_explanation": "ನಿರ್ದಿಷ್ಟ ದಿಕ್ಕಿನಲ್ಲಿ ವಸ್ತುವಿನ ಚಲನೆಯ ದರ.",
+    "example_sentence": "Velocity is speed with direction.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 5,
+    "english_term": "Evolution",
+    "kannada_meaning": "ವಿಕಾಸ",
+    "kannada_explanation": "ಕಾಲಾನಂತರದಲ್ಲಿ ಜೀವಿಗಳಲ್ಲಿ ಉಂಟಾಗುವ ಕ್ರಮೇಣ ಬದಲಾವಣೆ.",
+    "example_sentence": "Darwin proposed the theory of evolution.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 6,
+    "english_term": "Respiration",
+    "kannada_meaning": "ಉಸಿರಾಟ",
+    "kannada_explanation": "ಜೀವಿಗಳು ಆಮ್ಲಜನಕವನ್ನು ಪಡೆದು ಶಕ್ತಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಕ್ರಿಯೆ.",
+    "example_sentence": "Respiration is vital for all living beings.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 7,
+    "english_term": "Magnification",
+    "kannada_meaning": "ವರ್ಧನೆ",
+    "kannada_explanation": "ವಸ್ತುವನ್ನು ಅದರ ಮೂಲ ಗಾತ್ರಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿ ತೋರಿಸುವ ವಿಧಾನ.",
+    "example_sentence": "A microscope provides high magnification.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 8,
+    "english_term": "Circuit",
+    "kannada_meaning": "ವಿದ್ಯುತ್ ಮಂಡಲ",
+    "kannada_explanation": "ವಿದ್ಯುತ್ ಪ್ರವಾಹ ಹರಿಯಲು ಇರುವ ಪೂರ್ಣ ಮಾರ್ಗ.",
+    "example_sentence": "The electrical circuit was broken.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 9,
+    "english_term": "Compound",
+    "kannada_meaning": "ಸಂಯುಕ್ತ",
+    "kannada_explanation": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಧಾತುಗಳು ನಿರ್ದಿಷ್ಟ ಪ್ರಮಾಣದಲ್ಲಿ ಮಿಲನಗೊಂಡಾಗ ಉಂಟಾಗುವ ವಸ್ತು.",
+    "example_sentence": "Water is a chemical compound.",
+    "subject_category": "Science"
+  },
+  {
+    "id": 10,
+    "english_term": "Ecosystem",
+    "kannada_meaning": "ಪರಿಸರ ವ್ಯವಸ್ಥೆ",
+    "kannada_explanation": "ಜೀವಂತ ಸಂಕುಲ ಮತ್ತು ಅವುಗಳ ಪರಿಸರದ ನಡುವಿನ ಪರಸ್ಪರ ಸಂಬಂಧ.",
+    "example_sentence": "Forests are complex ecosystems.",
+    "subject_category": "Science"
+  } ,
+{
+"id": 11,
+"english_term": "Catalyst",
+"kannada_meaning": "ವೇಗವರ್ಧಕ",
+"kannada_explanation": "ತಾನು ಬದಲಾಗದೆ ರಾಸಾಯನಿಕ ಕ್ರಿಯೆಯ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸುವ ವಸ್ತು.",
+"example_sentence": "Enzymes act as a catalyst in our body.",
+"subject_category": "Science"
+},
+{
+"id": 12,
+"english_term": "Density",
+"kannada_meaning": "ಸಾಂದ್ರತೆ",
+"kannada_explanation": "ವಸ್ತುವಿನ ದ್ರವ್ಯರಾಶಿ ಮತ್ತು ಅದರ ಗಾತ್ರದ ನಡುವಿನ ಅನುಪಾತ.",
+"example_sentence": "Oil has lower density than water.",
+"subject_category": "Science"
+},
+{
+"id": 13,
+"english_term": "Friction",
+"kannada_meaning": "ಘರ್ಷಣೆ",
+"kannada_explanation": "ಪರಸ್ಪರ ಸ್ಪರ್ಶಿಸುವ ಎರಡು ಮೇಲ್ಮೈಗಳ ನಡುವಿನ ಚಲನೆಯನ್ನು ವಿರೋಧಿಸುವ ಬಲ.",
+"example_sentence": "Friction slows down moving objects.",
+"subject_category": "Science"
+},
+{
+"id": 14,
+"english_term": "Inertia",
+"kannada_meaning": "ಜಡತ್ವ",
+"kannada_explanation": "ವಸ್ತುವಿನ ತನ್ನ ಚಲನೆಯ ಸ್ಥಿತಿ ಅಥವಾ ವಿಶ್ರಾಂತಿ ಸ್ಥಿತಿಯ ಬದಲಾವಣೆಯನ್ನು ವಿರೋಧಿಸುವ ಗುಣ.",
+"example_sentence": "Inertia keeps the object at rest.",
+"subject_category": "Science"
+},
+{
+"id": 15,
+"english_term": "Pollination",
+"kannada_meaning": "ಪರಾಗಸ್ಪರ್ಶ",
+"kannada_explanation": "ಪರಾಗ ರೇಣುಗಳು ಅಂಡಾಶಯಕ್ಕೆ ತಲುಪಿ ಬೀಜೋತ್ಪತ್ತಿಗೆ ಕಾರಣವಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Bees help in pollination.",
+"subject_category": "Science"
+},
+{
+"id": 16,
+"english_term": "Reflection",
+"kannada_meaning": "ಪ್ರತಿಫಲನ",
+"kannada_explanation": "ಬೆಳಕು ಒಂದು ಮೇಲ್ಮೈಗೆ ತಗುಲಿ ವಾಪಸ್ ಬರುವ ಕ್ರಿಯೆ.",
+"example_sentence": "Light reflection allows us to see.",
+"subject_category": "Science"
+},
+{
+"id": 17,
+"english_term": "Refraction",
+"kannada_meaning": "ವಕ್ರೀಭವನ",
+"kannada_explanation": "ಬೆಳಕು ಒಂದು ಮಾಧ್ಯಮದಿಂದ ಇನ್ನೊಂದು ಮಾಧ್ಯಮಕ್ಕೆ ಹೋದಾಗ ಬಾಗುವ ಕ್ರಿಯೆ.",
+"example_sentence": "Refraction makes straw look bent in water.",
+"subject_category": "Science"
+},
+{
+"id": 18,
+"english_term": "Solvent",
+"kannada_meaning": "ದ್ರಾವಕ",
+"kannada_explanation": "ಮತ್ತೊಂದು ವಸ್ತುವನ್ನು ತನ್ನೊಳಗೆ ಕರಗಿಸಿಕೊಳ್ಳುವ ದ್ರವ.",
+"example_sentence": "Water is a universal solvent.",
+"subject_category": "Science"
+},
+{
+"id": 19,
+"english_term": "Transpiration",
+"kannada_meaning": "ಬಾಷ್ಪವಿಸರ್ಜನೆ",
+"kannada_explanation": "ಸಸ್ಯಗಳು ಎಲೆಗಳ ಮೂಲಕ ಹೆಚ್ಚುವರಿ ನೀರನ್ನು ಹಬೆಯ ರೂಪದಲ್ಲಿ ಹೊರಹಾಕುವ ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Leaves lose water through transpiration.",
+"subject_category": "Science"
+},
+{
+"id": 20,
+"english_term": "Vaccination",
+"kannada_meaning": "ಲಸಿಕೆ",
+"kannada_explanation": "ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ನೀಡಲು ದೇಹಕ್ಕೆ ಔಷಧ ಹಾಕುವ ವಿಧಾನ.",
+"example_sentence": "Vaccination prevents diseases.",
+"subject_category": "Science"
+},
+{
+"id": 21,
+"english_term": "Biodiversity",
+"kannada_meaning": "ಜೈವಿಕ ವೈವಿಧ್ಯತೆ",
+"kannada_explanation": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಪ್ರದೇಶದಲ್ಲಿ ಕಂಡುಬರುವ ವಿವಿಧ ಜೀವಿಗಳ ಸಮೂಹ.",
+"example_sentence": "We must protect biodiversity.",
+"subject_category": "Science"
+},
+{
+"id": 22,
+"english_term": "Centrifugal",
+"kannada_meaning": "ಕೇಂದ್ರಾಪಗಾಮಿ",
+"kannada_explanation": "ವರ್ತುಲಾಕಾರದ ಚಲನೆಯಲ್ಲಿ ಕೇಂದ್ರದಿಂದ ಹೊರಕ್ಕೆ ತಳ್ಳುವ ಬಲ.",
+"example_sentence": "Centrifugal force pushes things away from center.",
+"subject_category": "Science"
+},
+{
+"id": 23,
+"english_term": "Distillation",
+"kannada_meaning": "ಬಟ್ಟಿ ಇಳಿಸುವಿಕೆ",
+"kannada_explanation": "ದ್ರವವನ್ನು ಕಾಯಿಸಿ ಹಬೆ ಮಾಡಿ ಮತ್ತೆ ತಂಪಾಗಿಸುವ ಮೂಲಕ ಶುದ್ಧೀಕರಿಸುವ ವಿಧಾನ.",
+"example_sentence": "Distillation is used to purify water.",
+"subject_category": "Science"
+},
+{
+"id": 24,
+"english_term": "Evaporation",
+"kannada_meaning": "ಬಾಷ್ಪೀಕರಣ",
+"kannada_explanation": "ದ್ರವವು ಅನಿಲವಾಗಿ ಪರಿವರ್ತಿತವಾಗುವ ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Heat causes evaporation of water.",
+"subject_category": "Science"
+},
+{
+"id": 25,
+"english_term": "Fermentation",
+"kannada_meaning": "ಹುದುಗುವಿಕೆ",
+"kannada_explanation": "ಸಕ್ಕರೆಯು ಸೂಕ್ಷ್ಮಜೀವಿಗಳ ಮೂಲಕ ಮದ್ಯಸಾರವಾಗಿ ಬದಲಾಗುವ ಕ್ರಿಯೆ.",
+"example_sentence": "Yeast is used for fermentation.",
+"subject_category": "Science"
+},
+{
+"id": 26,
+"english_term": "Genetic",
+"kannada_meaning": "ಆನುವಂಶಿಕ",
+"kannada_explanation": "ವಂಶಪಾರಂಪರ್ಯವಾಗಿ ಬರುವ ಗುಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಂಗತಿ.",
+"example_sentence": "DNA carries genetic information.",
+"subject_category": "Science"
+},
+{
+"id": 27,
+"english_term": "Hormone",
+"kannada_meaning": "ಹಾರ್ಮೋನ್",
+"kannada_explanation": "ದೇಹದ ಚಟುವಟಿಕೆಗಳನ್ನು ನಿಯಂತ್ರಿಸುವ ರಾಸಾಯನಿಕ ಸಂದೇಶವಾಹಕ.",
+"example_sentence": "Insulin is a hormone that regulates sugar.",
+"subject_category": "Science"
+},
+{
+"id": 28,
+"english_term": "Isotope",
+"kannada_meaning": "ಸಮಸ್ಥಾನಿ",
+"kannada_explanation": "ಒಂದೇ ಪರಮಾಣು ಸಂಖ್ಯೆ ಆದರೆ ಬೇರೆ ದ್ರವ್ಯರಾಶಿ ಹೊಂದಿರುವ ಧಾತು.",
+"example_sentence": "Carbon-14 is an isotope used for dating.",
+"subject_category": "Science"
+},
+{
+"id": 29,
+"english_term": "Kinetic",
+"kannada_meaning": "ಚಲನ ಶಕ್ತಿ",
+"kannada_explanation": "ಚಲಿಸುತ್ತಿರುವ ವಸ್ತುವು ಹೊಂದಿರುವ ಶಕ್ತಿ.",
+"example_sentence": "Moving objects have kinetic energy.",
+"subject_category": "Science"
+},
+{
+"id": 30,
+"english_term": "Metabolism",
+"kannada_meaning": "ಚಯಾಪಚಯ",
+"kannada_explanation": "ಜೀವಕೋಶಗಳಲ್ಲಿ ನಡೆಯುವ ರಾಸಾಯನಿಕ ಪಲ್ಲಟಗಳು.",
+"example_sentence": "Metabolism converts food into energy.",
+"subject_category": "Science"
+},
+{
+"id": 31,
+"english_term": "Nucleus",
+"kannada_meaning": "ನ್ಯೂಕ್ಲಿಯಸ್ (ಕೇಂದ್ರ)",
+"kannada_explanation": "ಜೀವಕೋಶ ಅಥವಾ ಪರಮಾಣುವಿನ ಮಧ್ಯಭಾಗ.",
+"example_sentence": "The nucleus is the control center of the cell.",
+"subject_category": "Science"
+},
+{
+"id": 32,
+"english_term": "Osmosis",
+"kannada_meaning": "ಅಭಿಸರಣೆ",
+"kannada_explanation": "ಅರ್ಧಪಾರಗಮ್ಯ ಝಿಲೆಯ ಮೂಲಕ ನೀರಿನ ಚಲನೆ.",
+"example_sentence": "Osmosis helps plants absorb water.",
+"subject_category": "Science"
+},
+{
+"id": 33,
+"english_term": "Periodic Table",
+"kannada_meaning": "ಆವರ್ತಕ ಕೋಷ್ಟಕ",
+"kannada_explanation": "ಧಾತುಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಜೋಡಿಸಿದ ಪಟ್ಟಿ.",
+"example_sentence": "The periodic table organizes elements.",
+"subject_category": "Science"
+},
+{
+"id": 34,
+"english_term": "Quantum",
+"kannada_meaning": "ಕ್ವಾಂಟಮ್",
+"kannada_explanation": "ಶಕ್ತಿಯ ಅತಿ ಸಣ್ಣ ಘಟಕ.",
+"example_sentence": "Quantum physics studies tiny particles.",
+"subject_category": "Science"
+},
+{
+"id": 35,
+"english_term": "Atmosphere",
+"kannada_meaning": "ವಾತಾವರಣ",
+"kannada_explanation": "ಭೂಮಿಯನ್ನು ಸುತ್ತುವ ಗಾಳಿಯ ಪದರ.",
+"example_sentence": "The atmosphere protects life on Earth.",
+"subject_category": "Science"
+},
+{
+"id": 36,
+"english_term": "Molecule",
+"kannada_meaning": "ಅಣು",
+"kannada_explanation": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪರಮಾಣುಗಳ ಗುಂಪು.",
+"example_sentence": "Water is made of molecules.",
+"subject_category": "Science"
+},
+{
+"id": 37,
+"english_term": "Germination",
+"kannada_meaning": "ಮೊಳಕೆಯೊಡೆಯುವಿಕೆ",
+"kannada_explanation": "ಬೀಜವು ಸಸ್ಯವಾಗಿ ಬೆಳೆಯುವ ಪ್ರಾರಂಭ.",
+"example_sentence": "Seeds need water for germination.",
+"subject_category": "Science"
+},
+{
+"id": 38,
+"english_term": "Potential Energy",
+"kannada_meaning": "ಪ್ರಚ್ಛನ್ನ ಶಕ್ತಿ",
+"kannada_explanation": "ಸ್ಥಿತಿಯಿಂದ ಹೊಂದಿರುವ ಶಕ್ತಿ.",
+"example_sentence": "A stretched spring stores potential energy.",
+"subject_category": "Science"
+},
+{
+"id": 39,
+"english_term": "Satellite",
+"kannada_meaning": "ಉಪಗ್ರಹ",
+"kannada_explanation": "ಗ್ರಹದ ಸುತ್ತ ತಿರುಗುವ ವಸ್ತು.",
+"example_sentence": "The Moon is Earth’s satellite.",
+"subject_category": "Science"
+},
+{
+"id": 40,
+"english_term": "Chromosome",
+"kannada_meaning": "ವರ್ಣತಂತು",
+"kannada_explanation": "ಡಿಎನ್ಎ ಹೊಂದಿರುವ ರಚನೆ.",
+"example_sentence": "Humans have 23 pairs of chromosomes.",
+"subject_category": "Science"
+},
+{
+"id": 41,
+"english_term": "DNA",
+"kannada_meaning": "ಡಿಎನ್ಎ",
+"kannada_explanation": "ಆನುವಂಶಿಕ ಮಾಹಿತಿಯನ್ನು ಹೊಂದಿರುವ ಅಣು.",
+"example_sentence": "DNA defines genetic traits.",
+"subject_category": "Science"
+},
+{
+"id": 42,
+"english_term": "Enzyme",
+"kannada_meaning": "ಕಿಣ್ವ",
+"kannada_explanation": "ರಾಸಾಯನಿಕ ಕ್ರಿಯೆ ವೇಗವರ್ಧಕ.",
+"example_sentence": "Enzymes speed up digestion.",
+"subject_category": "Science"
+},
+{
+"id": 43,
+"english_term": "Tissue",
+"kannada_meaning": "ಅಂಗಾಂಶ",
+"kannada_explanation": "ಒಂದೇ ಕಾರ್ಯ ಮಾಡುವ ಕೋಶಗಳ ಗುಂಪು.",
+"example_sentence": "Muscle tissue helps movement.",
+"subject_category": "Science"
+},
+{
+"id": 44,
+"english_term": "Organ",
+"kannada_meaning": "ಅಂಗ",
+"kannada_explanation": "ವಿವಿಧ ಅಂಗಾಂಶಗಳಿಂದ ನಿರ್ಮಿತ ಭಾಗ.",
+"example_sentence": "Heart is a vital organ.",
+"subject_category": "Science"
+},
+{
+"id": 45,
+"english_term": "Acid",
+"kannada_meaning": "ಆಮ್ಲ",
+"kannada_explanation": "ಹುಳಿ ಸ್ವಭಾವದ ರಾಸಾಯನಿಕ.",
+"example_sentence": "Lemon contains acid.",
+"subject_category": "Science"
+},
+{
+"id": 46,
+"english_term": "Base",
+"kannada_meaning": "ಪ್ರತ್ಯಾಮ್ಲ",
+"kannada_explanation": "ಕಹಿ ಸ್ವಭಾವದ ರಾಸಾಯನಿಕ.",
+"example_sentence": "Soap is a base.",
+"subject_category": "Science"
+},
+{
+"id": 47,
+"english_term": "Nuclear Fission",
+"kannada_meaning": "ಅಣು ವಿಭಜನೆ",
+"kannada_explanation": "ಪರಮಾಣು ವಿಭಜನೆಯಿಂದ ಶಕ್ತಿ ಬಿಡುಗಡೆ.",
+"example_sentence": "Nuclear fission produces energy.",
+"subject_category": "Science"
+},
+{
+"id": 48,
+"english_term": "Nuclear Fusion",
+"kannada_meaning": "ಅಣು ಸಂಯೋಜನೆ",
+"kannada_explanation": "ಪರಮಾಣುಗಳ ಸಂಯೋಜನೆಯಿಂದ ಶಕ್ತಿ ಉತ್ಪತ್ತಿ.",
+"example_sentence": "The Sun uses nuclear fusion.",
+"subject_category": "Science"
+},
+{
+"id": 49,
+"english_term": "Polymer",
+"kannada_meaning": "ಬಹುಲಕ",
+"kannada_explanation": "ಅನೇಕ ಘಟಕಗಳಿಂದ ನಿರ್ಮಿತ ಅಣು.",
+"example_sentence": "Plastic is a polymer.",
+"subject_category": "Science"
+},
+{
+"id": 50,
+"english_term": "Ion",
+"kannada_meaning": "ಅಯಾನು",
+"kannada_explanation": "ವಿದ್ಯುತ್ ಆವೇಶ ಹೊಂದಿರುವ ಕಣ.",
+"example_sentence": "Salt forms ions in water.",
+"subject_category": "Science"
+},
+{
+"id": 51,
+"english_term": "Superconductor",
+"kannada_meaning": "ಅತಿವಾಹಕ",
+"kannada_explanation": "ವಿದ್ಯುತ್ ಪ್ರತಿರೋಧವಿಲ್ಲದೆ ಸಾಗಿಸುವ ವಸ್ತು.",
+"example_sentence": "Superconductors conduct electricity with zero resistance.",
+"subject_category": "Science"
+},
+{
+"id": 52,
+"english_term": "Viscosity",
+"kannada_meaning": "ಸ್ನಿಗ್ಧತೆ",
+"kannada_explanation": "ದ್ರವದ ಹರಿವಿಗೆ ವಿರೋಧಿಸುವ ಗುಣ.",
+"example_sentence": "Honey has high viscosity.",
+"subject_category": "Science"
+},
+{
+"id": 53,
+"english_term": "Capillary",
+"kannada_meaning": "ಲೋಮನಾಳ",
+"kannada_explanation": "ಸಣ್ಣ ರಕ್ತನಾಳಗಳು.",
+"example_sentence": "Capillaries connect arteries and veins.",
+"subject_category": "Science"
+},
+{
+"id": 54,
+"english_term": "Diffraction",
+"kannada_meaning": "ವಿವರ್ತನೆ",
+"kannada_explanation": "ಅಲೆಗಳು ಅಡ್ಡಿಗಳನ್ನು ದಾಟಿ ವಕ್ರವಾಗುವ ಕ್ರಿಯೆ.",
+"example_sentence": "Light shows diffraction patterns.",
+"subject_category": "Science"
+},
+{
+"id": 55,
+"english_term": "Thermodynamics",
+"kannada_meaning": "ಉಷ್ಣಗತಿ ವಿಜ್ಞಾನ",
+"kannada_explanation": "ಶಾಖ ಮತ್ತು ಶಕ್ತಿಯ ಅಧ್ಯಯನ.",
+"example_sentence": "Thermodynamics explains heat transfer.",
+"subject_category": "Science"
+},
+{
+"id": 56,
+"english_term": "Entropy",
+"kannada_meaning": "ಎಂಟ್ರೋಪಿ",
+"kannada_explanation": "ವ್ಯವಸ್ಥೆಯ ಅಸ್ತವ್ಯಸ್ತತೆಯ ಅಳತೆ.",
+"example_sentence": "Entropy always increases in a system.",
+"subject_category": "Science"
+},
+{
+"id": 57,
+"english_term": "Mutation",
+"kannada_meaning": "ರೂಪಾಂತರ",
+"kannada_explanation": "ಡಿಎನ್ಎಯಲ್ಲಿನ ಬದಲಾವಣೆ.",
+"example_sentence": "Mutation can create new traits.",
+"subject_category": "Science"
+},
+{
+"id": 58,
+"english_term": "Mitochondria",
+"kannada_meaning": "ಮೈಟೋಕಾಂಡ್ರಿಯಾ",
+"kannada_explanation": "ಕೋಶದ ಶಕ್ತಿ ಕೇಂದ್ರ.",
+"example_sentence": "Mitochondria produce energy.",
+"subject_category": "Science"
+},
+{
+"id": 59,
+"english_term": "Membrane",
+"kannada_meaning": "ಪೊರೆ",
+"kannada_explanation": "ಕೋಶವನ್ನು ಆವರಿಸುವ ಪದರ.",
+"example_sentence": "The membrane controls entry and exit.",
+"subject_category": "Science"
+},
+{
+"id": 60,
+"english_term": "Fossil",
+"kannada_meaning": "ಪಳೆಯುಳಿಕೆ",
+"kannada_explanation": "ಹಳೆಯ ಜೀವಿಗಳ ಅವಶೇಷಗಳು.",
+"example_sentence": "Fossils tell about ancient life.",
+"subject_category": "Science"
+},
+{
+"id": 61,
+"english_term": "Glacier",
+"kannada_meaning": "ಹಿಮನದಿ",
+"kannada_explanation": "ನಿಧಾನವಾಗಿ ಚಲಿಸುವ ಹಿಮದ ದೊಡ್ಡ ಗುಂಪು.",
+"example_sentence": "Glaciers are melting.",
+"subject_category": "Science"
+},
+{
+"id": 62,
+"english_term": "Hemoglobin",
+"kannada_meaning": "ಹಿಮೋಗ್ಲೋಬಿನ್",
+"kannada_explanation": "ರಕ್ತದಲ್ಲಿ ಆಮ್ಲಜನಕ ಸಾಗಿಸುವ ಪ್ರೋಟೀನ್.",
+"example_sentence": "Hemoglobin carries oxygen.",
+"subject_category": "Science"
+},
+{
+"id": 63,
+"english_term": "Insulator",
+"kannada_meaning": "ವಿದ್ಯುತ್ ಬಂಧಕ",
+"kannada_explanation": "ವಿದ್ಯುತ್ ಹರಿಯದ ವಸ್ತು.",
+"example_sentence": "Rubber is an insulator.",
+"subject_category": "Science"
+},
+{
+"id": 64,
+"english_term": "Jet Stream",
+"kannada_meaning": "ಜೋರು ಗಾಳಿ ಹರಿವು",
+"kannada_explanation": "ವೇಗವಾಗಿ ಚಲಿಸುವ ಗಾಳಿಯ ಹರಿವು.",
+"example_sentence": "Jet streams affect weather.",
+"subject_category": "Science"
+},
+{
+"id": 65,
+"english_term": "Lava",
+"kannada_meaning": "ಲಾವಾ",
+"kannada_explanation": "ಜ್ವಾಲಾಮುಖಿಯಿಂದ ಹೊರಬರುವ ಕರಗಿದ ಶಿಲೆ.",
+"example_sentence": "Lava cools into rock.",
+"subject_category": "Science"
+},
+{
+"id": 66,
+"english_term": "Nebula",
+"kannada_meaning": "ನೆಬ್ಯುಲಾ",
+"kannada_explanation": "ಅಂತರಿಕ್ಷದಲ್ಲಿನ ಅನಿಲ ಮೋಡ.",
+"example_sentence": "Stars form in nebulae.",
+"subject_category": "Science"
+},
+{
+"id": 67,
+"english_term": "Omnivore",
+"kannada_meaning": "ಸರ್ವಭಕ್ಷಕ",
+"kannada_explanation": "ಸಸ್ಯ ಮತ್ತು ಮಾಂಸ ತಿನ್ನುವ ಪ್ರಾಣಿ.",
+"example_sentence": "Humans are omnivores.",
+"subject_category": "Science"
+},
+{
+"id": 68,
+"english_term": "pH Scale",
+"kannada_meaning": "ಪಿಎಚ್ ಮಾಪಕ",
+"kannada_explanation": "ಆಮ್ಲ/ಕ್ಷಾರ ಅಳತೆ ಮಾಡುವ ಮಾನದಂಡ.",
+"example_sentence": "Water has pH 7.",
+"subject_category": "Science"
+},
+{
+"id": 69,
+"english_term": "Quartz",
+"kannada_meaning": "ಕ್ವಾರ್ಟ್ಜ್",
+"kannada_explanation": "ಸಾಮಾನ್ಯ ಖನಿಜ.",
+"example_sentence": "Quartz is used in watches.",
+"subject_category": "Science"
+},
+{
+"id": 70,
+"english_term": "Static Electricity",
+"kannada_meaning": "ಸ್ಥಿರ ವಿದ್ಯುತ್",
+"kannada_explanation": "ಸ್ಥಿರ ಆವೇಶ.",
+"example_sentence": "Balloon creates static electricity.",
+"subject_category": "Science"
+},
+{
+"id": 71,
+"english_term": "Tsunami",
+"kannada_meaning": "ಸುನಾಮಿ",
+"kannada_explanation": "ಸಮುದ್ರದ ದೊಡ್ಡ ಅಲೆ.",
+"example_sentence": "Tsunamis cause destruction.",
+"subject_category": "Science"
+},
+{
+"id": 72,
+"english_term": "Uranium",
+"kannada_meaning": "ಯುರೇನಿಯಂ",
+"kannada_explanation": "ಅಣು ಇಂಧನ.",
+"example_sentence": "Uranium is used in reactors.",
+"subject_category": "Science"
+},
+{
+"id": 73,
+"english_term": "Vaccine",
+"kannada_meaning": "ಲಸಿಕೆ",
+"kannada_explanation": "ರೋಗ ನಿರೋಧಕ ದ್ರವ.",
+"example_sentence": "Vaccines prevent diseases.",
+"subject_category": "Science"
+},
+{
+"id": 74,
+"english_term": "Zoology",
+"kannada_meaning": "ಪ್ರಾಣಿಶಾಸ್ತ್ರ",
+"kannada_explanation": "ಪ್ರಾಣಿಗಳ ಅಧ್ಯಯನ.",
+"example_sentence": "She studies zoology.",
+"subject_category": "Science"
+},
+{
+"id": 75,
+"english_term": "Aerodynamics",
+"kannada_meaning": "ವಾಯುಗತಿ ವಿಜ್ಞಾನ",
+"kannada_explanation": "ಗಾಳಿಯ ಚಲನೆಯ ಅಧ್ಯಯನ.",
+"example_sentence": "Planes use aerodynamics.",
+"subject_category": "Science"
+},
+{
+"id": 76,
+"english_term": "Conduction",
+"kannada_meaning": "ವಹನ",
+"kannada_explanation": "ಶಾಖ/ವಿದ್ಯುತ್ ಹರಿವು.",
+"example_sentence": "Metal shows conduction.",
+"subject_category": "Science"
+},
+{
+"id": 77,
+"english_term": "Fluorescence",
+"kannada_meaning": "ಪ್ರಕಾಶೋತ್ಸರ್ಗ",
+"kannada_explanation": "ಬೆಳಕು ಹೊರಸೂಸುವಿಕೆ.",
+"example_sentence": "Fluorescent lights glow.",
+"subject_category": "Science"
+},
+{
+"id": 78,
+"english_term": "Geology",
+"kannada_meaning": "ಭೂವಿಜ್ಞಾನ",
+"kannada_explanation": "ಭೂಮಿ ಅಧ್ಯಯನ.",
+"example_sentence": "Geology studies rocks.",
+"subject_category": "Science"
+},
+{
+"id": 79,
+"english_term": "Hydrology",
+"kannada_meaning": "ಜಲವಿಜ್ಞಾನ",
+"kannada_explanation": "ನೀರಿನ ಅಧ್ಯಯನ.",
+"example_sentence": "Hydrology studies water cycle.",
+"subject_category": "Science"
+},
+{
+"id": 80,
+"english_term": "Kinematics",
+"kannada_meaning": "ಚಲನಶಾಸ್ತ್ರ",
+"kannada_explanation": "ಚಲನೆಯ ಅಧ್ಯಯನ.",
+"example_sentence": "Kinematics describes motion.",
+"subject_category": "Science"
+},
+{
+"id": 81,
+"english_term": "Perimeter",
+"kannada_meaning": "ಪರಿಧಿ",
+"kannada_explanation": "ಆಕಾರದ ಸುತ್ತಲಿನ ಒಟ್ಟು ದೂರ.",
+"example_sentence": "Find the perimeter of a rectangle.",
+"subject_category": "Math"
+},
+{
+"id": 82,
+"english_term": "Area",
+"kannada_meaning": "ವಿಸ್ತೀರ್ಣ",
+"kannada_explanation": "ಒಂದು ಆಕಾರವು ಆವರಿಸುವ ಸ್ಥಳದ ಪ್ರಮಾಣ.",
+"example_sentence": "Calculate the area of the square.",
+"subject_category": "Math"
+},
+{
+"id": 83,
+"english_term": "Volume",
+"kannada_meaning": "ಘನಫಲ",
+"kannada_explanation": "ಒಂದು ಘನ ವಸ್ತುವಿನ ಒಳಗಿನ ಸ್ಥಳದ ಪ್ರಮಾಣ.",
+"example_sentence": "Volume of a cube is side³.",
+"subject_category": "Math"
+},
+{
+"id": 84,
+"english_term": "Angle",
+"kannada_meaning": "ಕೋನ",
+"kannada_explanation": "ಎರಡು ರೇಖೆಗಳು ಸೇರುವಲ್ಲಿ ಉಂಟಾಗುವ ತಿರುಗು.",
+"example_sentence": "A triangle has three angles.",
+"subject_category": "Math"
+},
+{
+"id": 85,
+"english_term": "Triangle",
+"kannada_meaning": "ತ್ರಿಕೋನ",
+"kannada_explanation": "ಮೂರು ಬಾಹುಗಳನ್ನು ಹೊಂದಿರುವ ಆಕಾರ.",
+"example_sentence": "A triangle has 3 sides.",
+"subject_category": "Math"
+},
+{
+"id": 86,
+"english_term": "Square",
+"kannada_meaning": "ಚೌಕ",
+"kannada_explanation": "ನಾಲ್ಕು ಸಮಾನ ಬಾಹುಗಳಿರುವ ಆಕಾರ.",
+"example_sentence": "A square has equal sides.",
+"subject_category": "Math"
+},
+{
+"id": 87,
+"english_term": "Rectangle",
+"kannada_meaning": "ಆಯತ",
+"kannada_explanation": "ಎದುರು ಬಾಹುಗಳು ಸಮಾನವಾಗಿರುವ ನಾಲ್ಕು ಬಾಹು ಆಕಾರ.",
+"example_sentence": "A rectangle has length and width.",
+"subject_category": "Math"
+},
+{
+"id": 88,
+"english_term": "Circle",
+"kannada_meaning": "ವೃತ್ತ",
+"kannada_explanation": "ಕೇಂದ್ರದಿಂದ ಸಮ ದೂರದಲ್ಲಿರುವ ಬಿಂದುಗಳ ಗುಂಪು.",
+"example_sentence": "A circle has no corners.",
+"subject_category": "Math"
+},
+{
+"id": 89,
+"english_term": "Radius",
+"kannada_meaning": "ತ್ರಿಜ್ಯ",
+"kannada_explanation": "ವೃತ್ತದ ಕೇಂದ್ರದಿಂದ ಅಂಚಿನವರೆಗೆ ಇರುವ ಅಂತರ.",
+"example_sentence": "Radius is half of diameter.",
+"subject_category": "Math"
+},
+{
+"id": 90,
+"english_term": "Diameter",
+"kannada_meaning": "ವ್ಯಾಸ",
+"kannada_explanation": "ವೃತ್ತದ ಕೇಂದ್ರದ ಮೂಲಕ ಹಾದುಹೋಗುವ ರೇಖೆ.",
+"example_sentence": "Diameter = 2 × radius.",
+"subject_category": "Math"
+},
+{
+"id": 91,
+"english_term": "Chord",
+"kannada_meaning": "ಜ್ಯಾ",
+"kannada_explanation": "ವೃತ್ತದ ಎರಡು ಬಿಂದುಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ರೇಖೆ.",
+"example_sentence": "A chord lies inside a circle.",
+"subject_category": "Math"
+},
+{
+"id": 92,
+"english_term": "Tangent",
+"kannada_meaning": "ಸ್ಪರ್ಶ ರೇಖೆ",
+"kannada_explanation": "ವೃತ್ತವನ್ನು ಒಂದೇ ಬಿಂದುವಿನಲ್ಲಿ ಸ್ಪರ್ಶಿಸುವ ರೇಖೆ.",
+"example_sentence": "A tangent touches a circle once.",
+"subject_category": "Math"
+},
+{
+"id": 93,
+"english_term": "Polygon",
+"kannada_meaning": "ಬಹುಭುಜ",
+"kannada_explanation": "ಮೂರು ಅಥವಾ ಹೆಚ್ಚು ಬಾಹುಗಳಿರುವ ಆಕಾರ.",
+"example_sentence": "A pentagon is a polygon.",
+"subject_category": "Math"
+},
+{
+"id": 94,
+"english_term": "Pentagon",
+"kannada_meaning": "ಪಂಚಭುಜ",
+"kannada_explanation": "ಐದು ಬಾಹುಗಳಿರುವ ಆಕಾರ.",
+"example_sentence": "A pentagon has five sides.",
+"subject_category": "Math"
+},
+{
+"id": 95,
+"english_term": "Hexagon",
+"kannada_meaning": "ಷಟ್ಭುಜ",
+"kannada_explanation": "ಆರು ಬಾಹುಗಳಿರುವ ಆಕಾರ.",
+"example_sentence": "A hexagon has six sides.",
+"subject_category": "Math"
+},
+{
+"id": 96,
+"english_term": "Octagon",
+"kannada_meaning": "ಅಷ್ಟಭುಜ",
+"kannada_explanation": "ಎಂಟು ಬಾಹುಗಳಿರುವ ಆಕಾರ.",
+"example_sentence": "A stop sign is an octagon.",
+"subject_category": "Math"
+},
+{
+"id": 97,
+"english_term": "Symmetry",
+"kannada_meaning": "ಸಮಮಿತಿ",
+"kannada_explanation": "ಎರಡು ಭಾಗಗಳು ಸಮಾನವಾಗಿರುವ ಗುಣ.",
+"example_sentence": "A square has symmetry.",
+"subject_category": "Math"
+},
+{
+"id": 98,
+"english_term": "Coordinate",
+"kannada_meaning": "ಸಂಯೋಜಕ",
+"kannada_explanation": "ಗ್ರಾಫ್‌ನಲ್ಲಿ ಬಿಂದುವಿನ ಸ್ಥಾನವನ್ನು ಸೂಚಿಸುವ ಸಂಖ್ಯೆ.",
+"example_sentence": "Plot the coordinate (2,3).",
+"subject_category": "Math"
+},
+{
+"id": 99,
+"english_term": "Origin",
+"kannada_meaning": "ಮೂಲಬಿಂದು",
+"kannada_explanation": "ಗ್ರಾಫ್‌ನ ಕೇಂದ್ರ ಬಿಂದು (0,0).",
+"example_sentence": "Origin is (0,0).",
+"subject_category": "Math"
+},
+{
+"id": 100,
+"english_term": "Axis",
+"kannada_meaning": "ಅಕ್ಷ",
+"kannada_explanation": "ಗ್ರಾಫ್‌ನಲ್ಲಿ ಸೂಚನೆಗಾಗಿ ಬಳಸುವ ರೇಖೆ.",
+"example_sentence": "X-axis is horizontal.",
+"subject_category": "Math"
+},
+{
+"id": 101,
+"english_term": "Banking",
+"kannada_meaning": "ಬ್ಯಾಂಕಿಂಗ್",
+"kannada_explanation": "ಹಣಕಾಸು ವ್ಯವಹಾರಗಳನ್ನು ಬ್ಯಾಂಕ್ ಮೂಲಕ ನಿರ್ವಹಿಸುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Banking helps manage money safely.",
+"subject_category": "Commerce"
+},
+{
+"id": 102,
+"english_term": "Cheque",
+"kannada_meaning": "ಚೆಕ್",
+"kannada_explanation": "ಬ್ಯಾಂಕ್ ಮೂಲಕ ಹಣ ಪಾವತಿಸಲು ಬಳಸುವ ಪತ್ರ.",
+"example_sentence": "He paid by cheque.",
+"subject_category": "Commerce"
+},
+{
+"id": 103,
+"english_term": "Debit",
+"kannada_meaning": "ಡೆಬಿಟ್",
+"kannada_explanation": "ಖಾತೆಯಿಂದ ಹಣ ಕಡಿತವಾಗುವುದು.",
+"example_sentence": "The bank debited my account.",
+"subject_category": "Commerce"
+},
+{
+"id": 104,
+"english_term": "Credit",
+"kannada_meaning": "ಕ್ರೆಡಿಟ್",
+"kannada_explanation": "ಖಾತೆಗೆ ಹಣ ಸೇರಿಸುವುದು.",
+"example_sentence": "Salary was credited to my account.",
+"subject_category": "Commerce"
+},
+{
+"id": 105,
+"english_term": "Budget",
+"kannada_meaning": "ಬಜೆಟ್",
+"kannada_explanation": "ಆದಾಯ ಮತ್ತು ಖರ್ಚಿನ ಯೋಜನೆ.",
+"example_sentence": "We planned a monthly budget.",
+"subject_category": "Commerce"
+},
+{
+"id": 106,
+"english_term": "Investment",
+"kannada_meaning": "ಹೂಡಿಕೆ",
+"kannada_explanation": "ಲಾಭಕ್ಕಾಗಿ ಹಣವನ್ನು ಹೂಡುವುದು.",
+"example_sentence": "Investment in stocks can be risky.",
+"subject_category": "Commerce"
+},
+{
+"id": 107,
+"english_term": "Interest",
+"kannada_meaning": "ಬಡ್ಡಿ",
+"kannada_explanation": "ಹಣ ಸಾಲಕ್ಕೆ ನೀಡುವ ಹೆಚ್ಚುವರಿ ಮೊತ್ತ.",
+"example_sentence": "Bank gives interest on savings.",
+"subject_category": "Commerce"
+},
+{
+"id": 108,
+"english_term": "Loan",
+"kannada_meaning": "ಸಾಲ",
+"kannada_explanation": "ಬ್ಯಾಂಕಿನಿಂದ ಪಡೆಯುವ ಹಣ.",
+"example_sentence": "He took a loan for house.",
+"subject_category": "Commerce"
+},
+{
+"id": 109,
+"english_term": "Insurance",
+"kannada_meaning": "ವಿಮೆ",
+"kannada_explanation": "ನಷ್ಟದ ವಿರುದ್ಧ ರಕ್ಷಣೆ ನೀಡುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Car insurance is important.",
+"subject_category": "Commerce"
+},
+{
+"id": 110,
+"english_term": "Policy",
+"kannada_meaning": "ನೀತಿ",
+"kannada_explanation": "ವಿಮೆ ಅಥವಾ ವ್ಯವಹಾರದ ನಿಯಮಗಳ ದಾಖಲೆ.",
+"example_sentence": "Read the insurance policy carefully.",
+"subject_category": "Commerce"
+},
+{
+"id": 111,
+"english_term": "Demand",
+"kannada_meaning": "ಬೇಡಿಕೆ",
+"kannada_explanation": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ವಸ್ತುವಿನ ಅಗತ್ಯತೆ.",
+"example_sentence": "There is high demand for mobile phones.",
+"subject_category": "Commerce"
+},
+{
+"id": 112,
+"english_term": "Supply",
+"kannada_meaning": "ಪೂರೈಕೆ",
+"kannada_explanation": "ಮಾರುಕಟ್ಟೆಗೆ ವಸ್ತುಗಳನ್ನು ಒದಗಿಸುವುದು.",
+"example_sentence": "Supply of goods increased.",
+"subject_category": "Commerce"
+},
+{
+"id": 113,
+"english_term": "Trade",
+"kannada_meaning": "ವ್ಯಾಪಾರ",
+"kannada_explanation": "ಸರಕುಗಳ ಖರೀದಿ ಮತ್ತು ಮಾರಾಟ.",
+"example_sentence": "International trade is growing.",
+"subject_category": "Commerce"
+},
+{
+"id": 114,
+"english_term": "Wholesale",
+"kannada_meaning": "ಒಟ್ಟು ಮಾರಾಟ",
+"kannada_explanation": "ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವುದು.",
+"example_sentence": "He buys goods in wholesale.",
+"subject_category": "Commerce"
+},
+{
+"id": 115,
+"english_term": "Retail",
+"kannada_meaning": "ಚಿಲ್ಲರೆ ಮಾರಾಟ",
+"kannada_explanation": "ಸಣ್ಣ ಪ್ರಮಾಣದಲ್ಲಿ ವಸ್ತುಗಳನ್ನು ಮಾರಾಟ ಮಾಡುವುದು.",
+"example_sentence": "Retail shops are everywhere.",
+"subject_category": "Commerce"
+},
+{
+"id": 116,
+"english_term": "Invoice",
+"kannada_meaning": "ಬಿಲ್",
+"kannada_explanation": "ಮಾರಾಟದ ವಿವರ ಹೊಂದಿರುವ ದಾಖಲೆ.",
+"example_sentence": "The invoice was sent via email.",
+"subject_category": "Commerce"
+},
+{
+"id": 117,
+"english_term": "Transaction",
+"kannada_meaning": "ವಹಿವಾಟು",
+"kannada_explanation": "ಹಣ ಅಥವಾ ವಸ್ತುಗಳ ವಿನಿಮಯ ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Online transaction is easy.",
+"subject_category": "Commerce"
+},
+{
+"id": 118,
+"english_term": "Profit Margin",
+"kannada_meaning": "ಲಾಭ ಅಂಚು",
+"kannada_explanation": "ಮಾರಾಟದ ಬೆಲೆ ಮತ್ತು ವೆಚ್ಚದ ನಡುವಿನ ವ್ಯತ್ಯಾಸ.",
+"example_sentence": "The profit margin is high.",
+"subject_category": "Commerce"
+},
+{
+"id": 119,
+"english_term": "Loss",
+"kannada_meaning": "ನಷ್ಟ",
+"kannada_explanation": "ವೆಚ್ಚ ಹೆಚ್ಚು ಆದಾಗ ಉಂಟಾಗುವ ಹಾನಿ.",
+"example_sentence": "The business faced a loss.",
+"subject_category": "Commerce"
+},
+{
+"id": 120,
+"english_term": "Tax",
+"kannada_meaning": "ತೆರಿಗೆ",
+"kannada_explanation": "ಸರ್ಕಾರಕ್ಕೆ ನೀಡುವ ಹಣಕಾಸು ಕೊಡುಗೆ.",
+"example_sentence": "Pay your income tax on time.",
+"subject_category": "Commerce"
+},
+{
+"id": 121,
+"english_term": "Artificial Intelligence",
+"kannada_meaning": "ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ",
+"kannada_explanation": "ಮಾನವ ಬುದ್ಧಿಮತ್ತೆಯನ್ನು ಅನುಕರಿಸುವ ಯಂತ್ರ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "AI is used in smart assistants.",
+"subject_category": "Technology"
+},
+{
+"id": 122,
+"english_term": "Machine Learning",
+"kannada_meaning": "ಯಂತ್ರ ಅಧ್ಯಯನ",
+"kannada_explanation": "ಡೇಟಾದಿಂದ ಕಲಿಯುವ ಕಂಪ್ಯೂಟರ್ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Machine learning improves predictions.",
+"subject_category": "Technology"
+},
+{
+"id": 123,
+"english_term": "Algorithm",
+"kannada_meaning": "ಕ್ರಮಾವಳಿ",
+"kannada_explanation": "ಸಮಸ್ಯೆ ಪರಿಹರಿಸಲು ಹಂತ ಹಂತದ ವಿಧಾನ.",
+"example_sentence": "Search engines use algorithms.",
+"subject_category": "Technology"
+},
+{
+"id": 124,
+"english_term": "Data Structure",
+"kannada_meaning": "ದತ್ತಾಂಶ ರಚನೆ",
+"kannada_explanation": "ಡೇಟಾವನ್ನು ಸಂಘಟಿಸುವ ವಿಧಾನ.",
+"example_sentence": "Arrays are basic data structures.",
+"subject_category": "Technology"
+},
+{
+"id": 125,
+"english_term": "Programming",
+"kannada_meaning": "ಪ್ರೋಗ್ರಾಮಿಂಗ್",
+"kannada_explanation": "ಕಂಪ್ಯೂಟರ್‌ಗೆ ಸೂಚನೆಗಳನ್ನು ಬರೆಯುವ ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Programming is essential for developers.",
+"subject_category": "Technology"
+},
+{
+"id": 126,
+"english_term": "Compiler",
+"kannada_meaning": "ಸಂಯೋಜಕ",
+"kannada_explanation": "ಕೋಡ್ ಅನ್ನು ಯಂತ್ರ ಭಾಷೆಗೆ ಪರಿವರ್ತಿಸುವ ಸಾಧನ.",
+"example_sentence": "A compiler converts code to machine language.",
+"subject_category": "Technology"
+},
+{
+"id": 127,
+"english_term": "Debugging",
+"kannada_meaning": "ದೋಷ ನಿವಾರಣೆ",
+"kannada_explanation": "ಕೋಡ್‌ನ ದೋಷಗಳನ್ನು ಹುಡುಕಿ ಸರಿಪಡಿಸುವುದು.",
+"example_sentence": "Debugging is important in coding.",
+"subject_category": "Technology"
+},
+{
+"id": 128,
+"english_term": "Operating System",
+"kannada_meaning": "ಕಾರ್ಯಾಚರಣಾ ವ್ಯವಸ್ಥೆ",
+"kannada_explanation": "ಕಂಪ್ಯೂಟರ್ ಹಾರ್ಡ್‌ವೇರ್ ಮತ್ತು ಸಾಫ್ಟ್‌ವೇರ್ ನಿರ್ವಹಿಸುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Windows is an operating system.",
+"subject_category": "Technology"
+},
+{
+"id": 129,
+"english_term": "Database",
+"kannada_meaning": "ದತ್ತಸಂಗ್ರಹ",
+"kannada_explanation": "ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಿ ನಿರ್ವಹಿಸುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "MySQL is a database system.",
+"subject_category": "Technology"
+},
+{
+"id": 130,
+"english_term": "Server",
+"kannada_meaning": "ಸರ್ವರ್",
+"kannada_explanation": "ಇತರ ಕಂಪ್ಯೂಟರ್‌ಗಳಿಗೆ ಸೇವೆ ನೀಡುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Websites run on servers.",
+"subject_category": "Technology"
+},
+{
+"id": 131,
+"english_term": "Client",
+"kannada_meaning": "ಗ್ರಾಹಕ ವ್ಯವಸ್ಥೆ",
+"kannada_explanation": "ಸರ್ವರ್‌ನಿಂದ ಸೇವೆ ಪಡೆಯುವ ಸಾಧನ.",
+"example_sentence": "Your browser is a client.",
+"subject_category": "Technology"
+},
+{
+"id": 132,
+"english_term": "Cloud Computing",
+"kannada_meaning": "ಮೇಘ ಗಣಕಯಂತ್ರ",
+"kannada_explanation": "ಇಂಟರ್ನೆಟ್ ಮೂಲಕ ಡೇಟಾ ಸಂಗ್ರಹ ಮತ್ತು ಪ್ರಕ್ರಿಯೆ.",
+"example_sentence": "Google Drive uses cloud computing.",
+"subject_category": "Technology"
+},
+{
+"id": 133,
+"english_term": "Cybersecurity",
+"kannada_meaning": "ಸೈಬರ್ ಭದ್ರತೆ",
+"kannada_explanation": "ಡಿಜಿಟಲ್ ವ್ಯವಸ್ಥೆಗಳ ರಕ್ಷಣೆ.",
+"example_sentence": "Cybersecurity protects data.",
+"subject_category": "Technology"
+},
+{
+"id": 134,
+"english_term": "Firewall",
+"kannada_meaning": "ಭದ್ರತಾ ಗೋಡೆ",
+"kannada_explanation": "ಅನಧಿಕೃತ ಪ್ರವೇಶವನ್ನು ತಡೆಯುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Firewall blocks hackers.",
+"subject_category": "Technology"
+},
+{
+"id": 135,
+"english_term": "Encryption",
+"kannada_meaning": "ಗೂಢಲಿಪೀಕರಣ",
+"kannada_explanation": "ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತ ಕೋಡ್‌ಗೆ ಪರಿವರ್ತಿಸುವುದು.",
+"example_sentence": "Encryption protects messages.",
+"subject_category": "Technology"
+},
+{
+"id": 136,
+"english_term": "Decryption",
+"kannada_meaning": "ಡಿಕ್ರಿಪ್ಶನ್",
+"kannada_explanation": "ಗೂಢಲಿಪೀಕೃತ ಡೇಟಾವನ್ನು ಮೂಲ ರೂಪಕ್ಕೆ ತರುವುದು.",
+"example_sentence": "Decryption unlocks data.",
+"subject_category": "Technology"
+},
+{
+"id": 137,
+"english_term": "Network",
+"kannada_meaning": "ಜಾಲಬಂಧ",
+"kannada_explanation": "ಕಂಪ್ಯೂಟರ್‌ಗಳ ಸಂಪರ್ಕ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "WiFi is a network.",
+"subject_category": "Technology"
+},
+{
+"id": 138,
+"english_term": "Router",
+"kannada_meaning": "ರೂಟರ್",
+"kannada_explanation": "ಇಂಟರ್ನೆಟ್ ಡೇಟಾವನ್ನು ಹಂಚುವ ಸಾಧನ.",
+"example_sentence": "Router connects devices.",
+"subject_category": "Technology"
+},
+{
+"id": 139,
+"english_term": "Bandwidth",
+"kannada_meaning": "ಡೇಟಾ ವೇಗ",
+"kannada_explanation": "ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ ಡೇಟಾ ವರ್ಗಾವಣೆ ವೇಗ.",
+"example_sentence": "Higher bandwidth means faster internet.",
+"subject_category": "Technology"
+},
+{
+"id": 140,
+"english_term": "API",
+"kannada_meaning": "ಅಪ್ಲಿಕೇಶನ್ ಸಂಪರ್ಕ ಇಂಟರ್ಫೇಸ್",
+"kannada_explanation": "ಎರಡು ಸಾಫ್ಟ್‌ವೇರ್‌ಗಳ ನಡುವೆ ಸಂಪರ್ಕ ಸಾಧಿಸುವ ವ್ಯವಸ್ಥೆ.",
+"example_sentence": "Apps use API to communicate.",
+"subject_category": "Technology"
+}
+]
