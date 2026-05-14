@@ -1,7 +1,7 @@
 package com.example.nalla_nudi
 
 import android.Manifest
-import android.app.Activity
+import android.os.Build
 import android.content.pm.PackageManager
 import android.os.Bundle
 import android.speech.RecognitionListener
@@ -309,8 +309,13 @@ fun ExploreScreen(viewModel: NallaNudiViewModel, ttsManager: TTSManager, navCont
     var isListening by remember { mutableStateOf(false) }
 
     val speechRecognizer = remember {
-        if (SpeechRecognizer.isOnDeviceRecognitionAvailable(context)) {
+        if (
+            Build.VERSION.SDK_INT >= Build.VERSION_CODES.S &&
+            SpeechRecognizer.isOnDeviceRecognitionAvailable(context)
+        ) {
             SpeechRecognizer.createOnDeviceSpeechRecognizer(context)
+        } else if (SpeechRecognizer.isRecognitionAvailable(context)) {
+            SpeechRecognizer.createSpeechRecognizer(context)
         } else {
             null
         }
@@ -399,7 +404,7 @@ fun ExploreScreen(viewModel: NallaNudiViewModel, ttsManager: TTSManager, navCont
                     }
                     IconButton(onClick = {
                         if (speechRecognizer == null) {
-                            Toast.makeText(context, "This device has no offline speech recognizer installed.", Toast.LENGTH_SHORT).show()
+                            Toast.makeText(context, "This device has no speech recognizer installed.", Toast.LENGTH_SHORT).show()
                         } else if (context.checkSelfPermission(Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) {
                             speechRecognizer.startListening(speechIntent)
                         } else {
